@@ -6,5 +6,6 @@ target 'PodDemo' do
   # use_frameworks!
 
   # Pods for PodDemo
+  # pod 'PodDemo', :path => '../'
 
 end
